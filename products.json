@@ -1,0 +1,35 @@
+[
+  {
+    "name": "iphone8Plus",
+    "price": 50000,
+    "featured": false,
+    "company": "apple"
+  },
+  {
+    "name": "iphoneX",
+    "price": 65000,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "samsung20ultra",
+    "price": 100000,
+    "featured": false,
+    "company": "sumsang"
+  },
+  {
+    "name": "smartWatch",
+    "price": 5000,
+    "company": "oppo"
+  },
+  {
+    "name": "oppof2",
+    "price": 55000,
+    "company": "oppo"
+  },
+  {
+    "name": "moto z2 force",
+    "price": 40000,
+    "company": "vivo"
+  }
+]
